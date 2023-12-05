@@ -2,6 +2,10 @@
 
 
 
+https://github.com/NVlabs/BEV-Planner/assets/27915819/93afa127-813f-4d36-b4f2-84f6b8d9b905
+
+
+
 
 ## INTRODUCTION
 End-to-end autonomous driving recently emerged as a promising research direction to target autonomy from a full-stack perspective. Along this line, many of the latest works follow an open-loop evaluation setting on nuScenes to study the planning behavior. In this paper, we delve deeper into the problem by conducting thorough analyses and demystifying more devils in the details. We initially observed that the nuScenes dataset, characterized by relatively simple driving scenarios, leads to an under-utilization of perception information in end-to-end models incorporating ego status, such as the ego vehicle's velocity. These models tend to rely predominantly on the ego vehicle's status for future path planning. 
