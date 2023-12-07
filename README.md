@@ -1,6 +1,7 @@
 # Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?
 
 
+[arxiv](http://arxiv.org/abs/2312.03031)
 
 https://github.com/NVlabs/BEV-Planner/assets/27915819/93afa127-813f-4d36-b4f2-84f6b8d9b905
 
