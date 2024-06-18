@@ -10,7 +10,10 @@ Beyond the limitations of the dataset, we also note that current metrics do not 
 We further propose a simple baseline able to achieve competitive results without relying on perception annotations.
 Given the current limitations on the benchmark and metrics, we suggest the community reassess relevant prevailing research and be cautious whether the continued pursuit of state-of-the-art would yield convincing and universal conclusions.
 
-## TODO
 
-- Release Code & Models
+## Start
+### 1.Setting up Environment
+### 2.Preparing Dataset
+### 3.Training
 
+### 4.Eval
