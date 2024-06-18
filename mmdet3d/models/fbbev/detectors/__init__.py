@@ -2,6 +2,6 @@
 # 
 # This work is made available under the Nvidia Source Code License-NC. 
 # To view a copy of this license, visit 
-# https://github.com/NVlabs/BEV-planner/blob/main/LICENSE
+# TODO: add license here
 
 from .bev_planner import BEVPlanner
